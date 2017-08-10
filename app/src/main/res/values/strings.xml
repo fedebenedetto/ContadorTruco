@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Contador Truco</string>
+    <string name="action_settings">Settings</string>
+    <string name="nos">Nosotr@s</string>
+    <string name="sube">+</string>
+    <string name="partido_de_truco">Partido de Truco</string>
+    <string name="resta">-</string>
+    <string name="ellos">Ell@s</string>
+    <string name="envido">Envido</string>
+    <string name="real_envido">Real Envido</string>
+    <string name="falta_envido">Falta Envido</string>
+    <string name="truco">Truco</string>
+    <string name="re_truco">Re Truco</string>
+    <string name="vale_cuatro">Vale Cuatro</string>
+    <string name="_1_punto">1 Punto</string>
+</resources>
